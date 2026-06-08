@@ -37,3 +37,16 @@ Googleフォーム・Googleスプレッドシート・Google Apps Script（GAS�
 - 遅刻・早退判定
 - Slack通知
 - 月別レポート作成
+## 画面イメージ
+
+### 勤怠入力フォーム
+
+![勤怠入力フォーム](images/attendance-form.png)
+
+### 勤怠管理シート
+
+![勤怠管理シート](images/attendance-sheet.png)
+
+### ダッシュボード
+
+![ダッシュボード](images/attendance-dashboard.png)
